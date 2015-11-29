@@ -1,0 +1,26 @@
+{
+  "name": "learning-repo",
+  "version": "1.0.0",
+  "description": "Get random Names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnnyChedid/Learning-Repo.git"
+  },
+  "keywords": [
+    "random",
+    "names"
+  ],
+  "author": "Johnny Chedid <johnnychedid961@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JohnnyChedid/Learning-Repo/issues"
+  },
+  "homepage": "https://github.com/JohnnyChedid/Learning-Repo#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
