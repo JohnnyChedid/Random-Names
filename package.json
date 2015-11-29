@@ -1,5 +1,5 @@
 {
-  "name": "learning-repo",
+  "name": "random-names",
   "version": "1.0.0",
   "description": "Get random Names",
   "main": "src/index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JohnnyChedid/Learning-Repo.git"
+    "url": "git+https://github.com/JohnnyChedid/Random-Names.git"
   },
   "keywords": [
     "random",
@@ -17,9 +17,9 @@
   "author": "Johnny Chedid <johnnychedid961@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/JohnnyChedid/Learning-Repo/issues"
+    "url": "https://github.com/JohnnyChedid/Random-Names/issues"
   },
-  "homepage": "https://github.com/JohnnyChedid/Learning-Repo#readme",
+  "homepage": "https://github.com/JohnnyChedid/Random-Names#readme",
   "dependencies": {
     "unique-random-array": "1.0.0"
   }
